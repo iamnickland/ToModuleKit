@@ -1,0 +1,16 @@
+PODS:
+  - ToModuleKit (1.0.6)
+
+DEPENDENCIES:
+  - ToModuleKit (from `../`)
+
+EXTERNAL SOURCES:
+  ToModuleKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ToModuleKit: bdba7fd379b8c489894bae5e8a3a670a6ec9bfa8
+
+PODFILE CHECKSUM: ff2b9489784646df466c8d263dcf860f3ae6478d
+
+COCOAPODS: 1.14.3
